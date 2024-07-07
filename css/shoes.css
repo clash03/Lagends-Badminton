@@ -144,7 +144,7 @@ h1{
     background-color: #131919;
     box-sizing: border-box;
     top: 2000px;
-    width: 1263px;
+    padding-right: 100%;
     height: 400px;
     left: 0%;
      
